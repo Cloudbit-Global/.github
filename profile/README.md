@@ -1,12 +1,16 @@
 <div align="center">
+  <a href="https://cdbc.io">
+    <img src="https://raw.githubusercontent.com/Cloudbit-Global/core/main/assets/cdbc-logo-256.png" alt="Cloudbit Classic ($CDBC) Logo" width="140" height="140" />
+  </a>
   <h1>Cloudbit Classic ($CDBC)</h1>
-  <p><strong>Next-Generation Multichain DeFi, AI & Tap2Earn Ecosystem</strong></p>
+  <p><strong>Next-Generation Multichain DeFi, AI &amp; Tap2Earn Ecosystem</strong></p>
   <p>
-    <a href="https://cdbc.io">cdbc.io</a> •
-    <a href="https://cloudbitex.com">cloudbitex.com</a> •
-    <a href="https://cloudbit.to">cloudbit.to</a> •
-    <a href="https://t.me/cloudbit_ai_bot">@cloudbit_ai_bot</a> •
-    <a href="https://x.com/cloudbit_">X (@cloudbit_)</a>
+    <a href="https://cdbc.io">cdbc.io</a> &bull;
+    <a href="https://cloudbitex.com">cloudbitex.com</a> &bull;
+    <a href="https://cloudbit.to">cloudbit.to</a> &bull;
+    <a href="https://t.me/cloudbit_ai_bot">@cloudbit_ai_bot</a> &bull;
+    <a href="https://x.com/cloudbit_">X (@cloudbit_)</a> &bull;
+    <a href="https://instagram.com/cloudbit.official">Instagram (@cloudbit.official)</a>
   </p>
 </div>
 
@@ -46,6 +50,7 @@
 ---
 
 ## Official Repositories
-* **`Cloudbit-Global/core`** – Core architecture, multichain contract registry, and tokenomics specifications.
-* **`Cloudbit-Global/cdbc-app`** – Web3 portal interfaces and frontend builds (`cdbc.io` & `cloudbitex.com`).
-* **`Cloudbit-Global/cdbc-api`** – Public supply endpoints and ecosystem data services (`cdbc.io/api`).
+* **[`Cloudbit-Global/core`](https://github.com/Cloudbit-Global/core)** – Core architecture, multichain contract registry, verified ABIs, and brand assets.
+* **[`Cloudbit-Global/cdbc-app`](https://github.com/Cloudbit-Global/cdbc-app)** – Web3 portal interfaces and frontend builds (`cdbc.io` & `cloudbitex.com`).
+* **[`Cloudbit-Global/cdbc-api`](https://github.com/Cloudbit-Global/cdbc-api)** – Public supply endpoints and OpenAPI specifications (`cdbc.io/api`).
+* **[`Cloudbit-Global/cdbc-bot`](https://github.com/Cloudbit-Global/cdbc-bot)** – Official Telegram GameFi & Tap2Earn Bot (`@cloudbit_ai_bot` / `cloudbit.to`).
