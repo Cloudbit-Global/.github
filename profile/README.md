@@ -3,10 +3,10 @@
     <img src="https://raw.githubusercontent.com/Cloudbit-Global/core/main/assets/cdbc-logo-256.png" alt="Cloudbit Classic ($CDBC) Logo" width="140" height="140" />
   </a>
   <h1>Cloudbit Classic ($CDBC)</h1>
-  <p><strong>Next-Generation Multichain DeFi, AI &amp; Tap2Earn Ecosystem</strong></p>
+  <p><strong>Next-Generation Multichain DeFi, DEX, AI &amp; Tap2Earn Ecosystem</strong></p>
   <p>
     <a href="https://cdbc.io">cdbc.io</a> &bull;
-    <a href="https://cloudbitex.com">cloudbitex.com</a> &bull;
+    <a href="https://cloudbitex.com">cloudbitex.com (CloudbitDEX)</a> &bull;
     <a href="https://cloudbit.to">cloudbit.to</a> &bull;
     <a href="https://t.me/cloudbit_ai_bot">@cloudbit_ai_bot</a> &bull;
     <a href="https://x.com/cloudbit_">X (@cloudbit_)</a> &bull;
@@ -16,15 +16,16 @@
 
 ---
 
-## Core Tokenomics
+## Core Tokenomics &amp; DEX Parameters
 
 | Metric | Specification |
 | :--- | :--- |
 | **Project Name** | Cloudbit Classic |
 | **Ticker / Symbol** | CDBC (`$CDBC`) |
 | **Total Supply** | `200,000,000 CDBC` (Fixed Maximum Supply) |
-| **Tax Policy** | `0% Buy Tax / 0% Sell Tax` |
+| **Token Tax Policy** | `0% Buy Tax / 0% Sell Tax` |
 | **Primary Network** | BNB Smart Chain (BSC / BEP-20) |
+| **Official DEX** | [`https://cloudbitex.com`](https://cloudbitex.com) (0.25% Router Fee + 0.25% LP Fee) |
 | **Public API Endpoint** | `https://cdbc.io/api` |
 
 ---
@@ -49,8 +50,9 @@
 
 ---
 
-## Official Repositories
+## Official Ecosystem Repositories
 * **[`Cloudbit-Global/core`](https://github.com/Cloudbit-Global/core)** – Core architecture, multichain contract registry, verified ABIs, and brand assets.
-* **[`Cloudbit-Global/cdbc-app`](https://github.com/Cloudbit-Global/cdbc-app)** – Web3 portal interfaces and frontend builds (`cdbc.io` & `cloudbitex.com`).
+* **[`Cloudbit-Global/cdbc-dex`](https://github.com/Cloudbit-Global/cdbc-dex)** – Official CloudbitDEX multichain decentralized exchange, swap router, and listing portal (`cloudbitex.com`).
+* **[`Cloudbit-Global/cdbc-app`](https://github.com/Cloudbit-Global/cdbc-app)** – Official main project portal and frontend interfaces (`cdbc.io`).
 * **[`Cloudbit-Global/cdbc-api`](https://github.com/Cloudbit-Global/cdbc-api)** – Public supply endpoints and OpenAPI specifications (`cdbc.io/api`).
 * **[`Cloudbit-Global/cdbc-bot`](https://github.com/Cloudbit-Global/cdbc-bot)** – Official Telegram GameFi & Tap2Earn Bot (`@cloudbit_ai_bot` / `cloudbit.to`).
