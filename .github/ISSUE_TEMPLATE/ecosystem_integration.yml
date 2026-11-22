@@ -1,0 +1,19 @@
+name: Exchange / Wallet / Bridge Integration
+description: Request official $CDBC contract metadata, ABI files, or CloudbitDEX token listing support
+title: "[INTEGRATION]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: platform
+    attributes:
+      label: Platform / Wallet / Aggregator Name
+      placeholder: e.g., CoinGecko, TrustWallet, CEX Listing Team...
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Integration Requirements
+      placeholder: Specify required network (Primary BSC: 0xaf8b1b1bb4a47f537932968C7DE6E251dd50C6a9) or API endpoint...
+    validations:
+      required: true
