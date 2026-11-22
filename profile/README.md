@@ -62,6 +62,6 @@
 
 | Application | Ecosystem Module | Latest Release | Direct APK Download |
 | :--- | :--- | :--- | :--- |
-| **CDBC.IO** | Main Ecosystem Portal (`cdbc.io`) | `v2.0.0` | [CDBC-io-v2.0.0.apk](https://github.com/Cloudbit-Global/cdbc-app/releases/download/v2.0.0/CDBC-io-v2.0.0.apk) |
-| **CloudbitDEX** | Multichain Decentralized Exchange (`cloudbitex.com`) | `v2.0.0` | [CloudbitDEX-v2.0.0.apk](https://github.com/Cloudbit-Global/cdbc-dex/releases/download/v2.0.0/CloudbitDEX-v2.0.0.apk) |
-| **CDBC-BOT** | Telegram GameFi & Tap2Earn Portal (`cloudbit.to`) | `v2.0.0` | [CDBC-Bot-v2.0.0.apk](https://github.com/Cloudbit-Global/cdbc-bot/releases/download/v2.0.0/CDBC-Bot-v2.0.0.apk) |
+| **CDBC.IO** | Main Ecosystem Portal (`cdbc.io`) | `v3.0.0` | [CDBC-io-v3.0.0.apk](https://github.com/Cloudbit-Global/cdbc-app/releases/download/v3.0.0/CDBC-io-v3.0.0.apk) |
+| **CloudbitDEX** | Multichain Decentralized Exchange (`cloudbitex.com`) | `v3.0.0` | [CloudbitDEX-v3.0.0.apk](https://github.com/Cloudbit-Global/cdbc-dex/releases/download/v3.0.0/CloudbitDEX-v3.0.0.apk) |
+| **CDBC-BOT** | Telegram GameFi & Tap2Earn Portal (`cloudbit.to`) | `v3.0.0` | [CDBC-Bot-v3.0.0.apk](https://github.com/Cloudbit-Global/cdbc-bot/releases/download/v3.0.0/CDBC-Bot-v3.0.0.apk) |
