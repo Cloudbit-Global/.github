@@ -56,3 +56,12 @@
 * **[`Cloudbit-Global/cdbc-app`](https://github.com/Cloudbit-Global/cdbc-app)** – Official main project portal and frontend interfaces (`cdbc.io`).
 * **[`Cloudbit-Global/cdbc-api`](https://github.com/Cloudbit-Global/cdbc-api)** – Public supply endpoints and OpenAPI specifications (`cdbc.io/api`).
 * **[`Cloudbit-Global/cdbc-bot`](https://github.com/Cloudbit-Global/cdbc-bot)** – Official Telegram GameFi & Tap2Earn Bot (`@cloudbit_ai_bot` / `cloudbit.to`).
+---
+
+## Official Android Applications (APK Releases)
+
+| Application | Ecosystem Module | Latest Release | Direct APK Download |
+| :--- | :--- | :--- | :--- |
+| **CDBC.IO** | Main Ecosystem Portal (`cdbc.io`) | `v2.0.0` | [CDBC-io-v2.0.0.apk](https://github.com/Cloudbit-Global/cdbc-app/releases/download/v2.0.0/CDBC-io-v2.0.0.apk) |
+| **CloudbitDEX** | Multichain Decentralized Exchange (`cloudbitex.com`) | `v2.0.0` | [CloudbitDEX-v2.0.0.apk](https://github.com/Cloudbit-Global/cdbc-dex/releases/download/v2.0.0/CloudbitDEX-v2.0.0.apk) |
+| **CDBC-BOT** | Telegram GameFi & Tap2Earn Portal (`cloudbit.to`) | `v2.0.0` | [CDBC-Bot-v2.0.0.apk](https://github.com/Cloudbit-Global/cdbc-bot/releases/download/v2.0.0/CDBC-Bot-v2.0.0.apk) |
