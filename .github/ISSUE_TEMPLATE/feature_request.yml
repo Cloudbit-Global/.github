@@ -1,0 +1,24 @@
+name: Feature or Integration Request
+description: Propose a new feature, wallet/exchange integration, or multichain bridge addition
+title: "[FEAT]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Request Type
+      options:
+        - Wallet / Exchange / Aggregator Integration
+        - CloudbitDEX Feature or Token Listing
+        - API / OpenAPI Enhancement
+        - Android App (v3+) Improvement
+        - Documentation / Governance
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Problem Statement & Proposed Solution
+      placeholder: Describe the use case, technical requirements, and target repository...
+    validations:
+      required: true
