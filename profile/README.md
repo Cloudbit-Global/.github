@@ -26,7 +26,7 @@
 | **Token Tax Policy** | `0% Buy Tax / 0% Sell Tax` |
 | **Primary Network** | BNB Smart Chain (BSC / BEP-20) |
 | **Official DEX** | [`https://cloudbitex.com`](https://cloudbitex.com) (0.25% Router Fee + 0.25% LP Fee) |
-| **Public API Endpoint** | `https://cdbc.io/api` |
+| **Public API Endpoint** | `https://cdbc-api.vercel.app/api/cdbc/supply` |
 
 ---
 
@@ -54,7 +54,7 @@
 * **[`Cloudbit-Global/core`](https://github.com/Cloudbit-Global/core)** – Core architecture, multichain contract registry, verified ABIs, and brand assets.
 * **[`Cloudbit-Global/cdbc-dex`](https://github.com/Cloudbit-Global/cdbc-dex)** – Official CloudbitDEX multichain decentralized exchange, swap router, and listing portal (`cloudbitex.com`).
 * **[`Cloudbit-Global/cdbc-app`](https://github.com/Cloudbit-Global/cdbc-app)** – Official main project portal and frontend interfaces (`cdbc.io`).
-* **[`Cloudbit-Global/cdbc-api`](https://github.com/Cloudbit-Global/cdbc-api)** – Public supply endpoints and OpenAPI specifications (`cdbc.io/api`).
+* **[`Cloudbit-Global/cdbc-api`](https://github.com/Cloudbit-Global/cdbc-api)** – Public supply endpoints and OpenAPI specifications (`cdbc-api.vercel.app`).
 * **[`Cloudbit-Global/cdbc-bot`](https://github.com/Cloudbit-Global/cdbc-bot)** – Official Telegram GameFi & Tap2Earn Bot (`@cloudbit_ai_bot` / `cloudbit.to`).
 ---
 
