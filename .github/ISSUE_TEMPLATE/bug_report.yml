@@ -1,0 +1,25 @@
+name: Bug Report
+description: Report a technical issue across Cloudbit Classic ($CDBC) portals, APIs, DEX, or mobile apps
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: Affected Ecosystem Component
+      options:
+        - CloudbitDEX (cloudbitex.com)
+        - Main Portal (cdbc.io)
+        - Public Supply API (cdbc.io/api)
+        - Telegram Bot & Mini App (@cloudbit_ai_bot / cloudbit.to)
+        - Android APK (CDBC.IO / CloudbitDEX / CDBC-BOT)
+        - Smart Contracts / Registry (core)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue Description & Steps to Reproduce
+      placeholder: Describe what happened and how to reproduce it...
+    validations:
+      required: true
